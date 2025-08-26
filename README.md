@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zachmonari
-- 👀 I’m interested in back-end developing and database management.
+- 👀 I’m interested in back-end developing, machine learning, data science, AI and database management.
 - 🌱 I’m currently learning python as a programming language.
 - 💞️ I’m looking to collaborate on these areas of programming and enhance my skills.
 - 📫 Reach me via my email zachmonari002@gmail.com
